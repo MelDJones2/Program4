@@ -1,0 +1,10 @@
+C:\Users\Mel\source\repos\P04_Melvin\P04_Melvin\bin\Debug\P04_Melvin.exe.config
+C:\Users\Mel\source\repos\P04_Melvin\P04_Melvin\bin\Debug\P04_Melvin.exe
+C:\Users\Mel\source\repos\P04_Melvin\P04_Melvin\bin\Debug\P04_Melvin.pdb
+C:\Users\Mel\source\repos\P04_Melvin\P04_Melvin\obj\Debug\P04_Melvin.csproj.AssemblyReference.cache
+C:\Users\Mel\source\repos\P04_Melvin\P04_Melvin\obj\Debug\P04_Melvin.PlayerNamed.resources
+C:\Users\Mel\source\repos\P04_Melvin\P04_Melvin\obj\Debug\P04_Melvin.Properties.Resources.resources
+C:\Users\Mel\source\repos\P04_Melvin\P04_Melvin\obj\Debug\P04_Melvin.csproj.GenerateResource.cache
+C:\Users\Mel\source\repos\P04_Melvin\P04_Melvin\obj\Debug\P04_Melvin.csproj.CoreCompileInputs.cache
+C:\Users\Mel\source\repos\P04_Melvin\P04_Melvin\obj\Debug\P04_Melvin.exe
+C:\Users\Mel\source\repos\P04_Melvin\P04_Melvin\obj\Debug\P04_Melvin.pdb
